@@ -1,7 +1,7 @@
 /**
  * @param {string} URL
  */
-const getRawData = (URL) => {
+const get_data = (URL) => {
     return fetch(URL)
        .then((response) => response.text())
        .then((data) => {
