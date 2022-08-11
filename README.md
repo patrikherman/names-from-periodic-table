@@ -1,7 +1,7 @@
 # names-in-periodic-table
 ## What is the project about
 This project is meant to give you a list of all first names which can be put together using elements from the Periodic table.
-The plan is to add option for user to create list of combinations out of various sets of names. I also want to add GUI and later start hosting the project.
+The plan is to add option for user to create list of combinations out of various sets of names. I also want to add GUI and later start hosting the project meaning I want to transition from C# console app to a website.
 
 
 ## Manual for usage:
